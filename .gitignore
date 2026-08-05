@@ -1,2 +1,7 @@
 /.quarto/
 /_output/
+*_files/
+.quarto/
+/_scratch
+/shared_data
+/output_plots
